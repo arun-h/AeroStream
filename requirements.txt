@@ -16,7 +16,7 @@ pyspark==3.5.0
 
 # HTTP / API
 requests==2.31.0
-Flask==2.3.3
+Flask==2.2.5
 Flask-Cors==4.0.0
 
 # Runtime dependencies
@@ -24,5 +24,4 @@ urllib3==1.26.16
 idna==3.4
 certifi==2023.7.22
 cryptography==40.0.2
-packaging==21.3
 setproctitle==1.3.2
